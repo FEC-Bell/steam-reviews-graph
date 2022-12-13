@@ -28,7 +28,7 @@
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.3",
     "enzyme-to-json": "^3.5.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jest": "^26.3.0",
     "mysql": "^2.18.1",
     "nodemon": "^2.0.2",
